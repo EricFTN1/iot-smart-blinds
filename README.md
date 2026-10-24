@@ -34,6 +34,7 @@ The system learns IR remote commands and stores user-defined mappings in EEPROM 
 - IR Communication
 - Motor Control
 - Internet of Things (IoT)
+- SPI
 
 ## System Architecture
 
@@ -76,6 +77,7 @@ Through this project we gained experience with:
 - Hardware assembly and soldering
 - Collaborative software and hardware development
 - IoT system integration
+- SPI
 
 ## Future Improvements
 
