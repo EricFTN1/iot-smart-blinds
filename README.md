@@ -46,6 +46,8 @@ After initialization, the device automatically connects to an MQTT broker, subsc
 
 ## Team Contributions
 
+Both team members worked together on system integration, testing, and debugging throughout the project. We regularly reviewed each other's work, assisted in troubleshooting hardware and software issues, and collaborated to ensure reliable communication between the MQTT, IR, EEPROM, and motor control subsystems.
+
 ### Eric Nguyen
 - Independently implemented and tested MQTT server communications during the initial networking phase.
 - Led hardware development and system integration.
