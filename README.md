@@ -8,7 +8,7 @@ This project was developed as part of an Internet of Things (IoT) course. The go
 
 The system learns IR remote commands and stores user-defined mappings in EEPROM for persistent storage. Once configured, the controller can respond to IR remote inputs or automatically adjust the blinds through MQTT messages received from a connected broker.
 
-- [Demo Video](https://youtu.be/Oz5xw06XfSA)
+- 🎥 [Demo Video](https://youtu.be/Oz5xw06XfSA)
 
 ## Features
 
